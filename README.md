@@ -1,7 +1,7 @@
 Hi, 👋 My name is Achmad Daniel
 =============================================================================================================================
 
-I'm a Mobile App Developer with a passion for programming using Java, Kotlin, and C++. I'm always excited to create innovative solutions and engaging user experiences.
+I'm a Mobile App Developer with a passion for programming using Java, Kotlin, Flutter, and C++. I'm always excited to create innovative solutions and engaging user experiences.
 
 * 🌍  Bekasi, Indonesia
 * 🤝  Open to collaborating
