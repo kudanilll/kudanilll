@@ -5,7 +5,7 @@ I'm a Mobile App Developer with a passion for programming using Java, Kotlin, Fl
 
 * 🌍  Bekasi, Indonesia
 * 🤝  Open to collaborating
-* 🧠  Java, Kotlin, Flutter, C++, JavaScript
+* 🧠  Java, Kotlin, Flutter, C++, TypeScript
 
 ## Social media
 
