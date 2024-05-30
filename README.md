@@ -69,6 +69,6 @@ Want to know my social media?
 
 # Feedback
 
-I appreciate your feedback! If you have any suggestions or questions, please contact me directly.
+I appreciate your feedback! If you have any suggestions or questions, please [contact](mailto:achmad24daniel@gmail.com) me directly.
 
 Thank you for visiting!
