@@ -6,6 +6,8 @@ Welcome to my github! This space serves as a showcase of my skills, projects, an
 * 🌍  Bekasi, Indonesia
 * 🤝  Open to collaborating
 
+Want to visit my portfolio website? [here](https://portfolio-achmad-daniel.vercel.app/)
+
 # Tech Stack
 
 Want to know what technology I use to create projects?
@@ -42,6 +44,41 @@ Want to know what technology I use to create projects?
       </td>
       <td align="center" width="60">
         <img src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+# Tools
+
+The tools I use in making projects.
+
+<p align="center">
+  <table width="100">
+    <tr>
+      <td align="center" width="60">
+        <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/>
+      </td>
+      <td align="center" width="60">
+        <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000"/>
+      </td>
+      <td align="center" width="60">
+        <img src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000"/>
+      </td>
+      <td align="center" width="60">
+        <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000"/>
+      </td>
+      <td align="center" width="60">
+        <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"/>
+      </td>
+      <td align="center" width="60">
+        <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+      </td>
+      <td align="center" width="60">
+        <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
+      </td>
+      <td align="center" width="60">
+        <img src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000"/>
       </td>
     </tr>
   </table>
