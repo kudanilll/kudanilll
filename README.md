@@ -30,6 +30,8 @@ Want to know what technology I use to create projects?
       <td align="center" width="60">
         <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"/>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="60">
         <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000"/>
       </td>
@@ -68,6 +70,8 @@ The tools I use in making projects.
       <td align="center" width="60">
         <img src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000"/>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="60">
         <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000"/>
       </td>
