@@ -7,4 +7,4 @@ Welcome to my github! This space serves as a showcase of my skills, projects, an
 * 🌍  Bekasi, Indonesia
 * 🤝  Open to collaborating
 
-Want to visit my portfolio website? [here](https://www.kudaniel.my.id)
+Want to visit my portfolio website? [here](https://achmaddaniel.nielcode.com)
